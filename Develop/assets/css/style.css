@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* background color of entire website */
 body {
     background-color: #d9dcd6;
 }
-
+/* styling for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Styling for main title in header */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Grey font color for "seo" within Horiseon */
 h1 .seo {
     color: #d9dcd6;
 }
-
+/* styling for navigation links */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* hero banner image and sizing */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,17 +58,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* class styling to float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* class styling to float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* styling for content section */
 .content {
     width: 75%;
     display: inline-block;
@@ -83,16 +83,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* size of img floated in content section */
 .content article img {
     max-height: 200px;
 }
-
+/* styling for h2 banners in content section */
 .content article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styling for aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,23 +103,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* styling for articles within aside */
 .benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* styling for h3 banners in aside */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* styling for imgs in aside */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styling for footer */
 footer {
     padding: 30px;
     clear: both;
