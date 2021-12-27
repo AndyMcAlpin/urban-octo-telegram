@@ -7,4 +7,4 @@ I went through and changed all the divs to use semantic html.  Then I fixed the 
 I consolidated the css by combining separate classes with the same styling into single more global classes.  
 I added descriptions to the images and notes on the css so everything was apparent.
 
-![Website Screenshot](./Develop/assets/images/HoriseonWebSite.png "Finished Horiseon Screenshot")
+![Website Screenshot](./assets/images/HoriseonWebSite.png "Finished Horiseon Screenshot")
