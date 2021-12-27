@@ -49,6 +49,7 @@ a {
 p {
     font-size: 16px;
 }
+/* end styling for nav links */
 /* hero banner image and sizing */
 .hero {
     height: 800px;
@@ -92,6 +93,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end styling for content section */
 /* styling for aside */
 .benefits {
     margin-right: 20px;
@@ -119,6 +121,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end styling for aside */
 /* styling for footer */
 footer {
     padding: 30px;
@@ -130,3 +133,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* end styling for footer */
